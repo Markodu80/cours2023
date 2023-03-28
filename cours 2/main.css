@@ -1,0 +1,35 @@
+/* style.css */
+body{background: #FFFFFF;
+  color: black;
+  font-size: 12px;
+  font-family: 'Montserrat', sans-serif;}
+
+h1{color: #25465F;
+  font-weight: bold;
+  font-size: 20px;}
+
+h2 {color: #109DB9;
+  font-weight: 600;
+  font-size: 18px;}
+
+h3 {color : #EA5B0F;
+	font-weight : 400;
+  font-size: 14px;}
+
+p{font-weight: 100;
+  font-size: 12px;}
+
+a {color: yellowgreen;
+  font-weight: lighter;}
+
+#container {
+	overflow : auto;
+}
+#header {
+	width : 100%;
+	margin : 2px;
+	background-color : ghostwhite;
+	float : left;
+	display : inline;
+	text-align: center;
+}
